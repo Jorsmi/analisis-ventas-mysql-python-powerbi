@@ -1,0 +1,14 @@
+# Credenciales locales
+.env
+
+# Datos crudos (no versionados; ver data/README.md)
+data/*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Archivos temporales de Office / Power BI
+~$*
+*.tmp
